@@ -1,0 +1,77 @@
+body{font-family: 'Josefin Sans', sans-serif; background-color: black;}
+    	#landing
+    	{
+    		background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    		url('lsynbg.jpg') no-repeat center center;
+    		background-size: cover;
+    	}
+
+        #epiland
+        {
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url('episodes..jpg') no-repeat center center;
+            background-size: cover;
+        }
+    	.title
+    	{
+    		font-size: 50px;
+    		line-height: 1.4em;
+    		
+
+    	}
+
+        .subtitle {
+            font-size: 30px;
+        }
+    	.logo {margin: auto;
+    		padding-left: 50px;
+    		padding-right: 50px;
+    		padding-bottom: 20px;}
+    	p
+    	{
+    		font-size: 20px;
+    	}
+    	.section-heading{ font-size: 40px; }
+
+
+    	#podcast{ padding-top: 30px; width: 800px; height: auto;}
+
+    	a.navbar,a.navbar-item:hover {background-color: #192E49 !important;}
+
+    	a.navbar, a.navbar-item:visited {color: hsl(0, 0%, 98%);}
+    	a.navbar, a.navbar-item:active {color: #2F568A;}
+
+    	a.social:hover{color: #192E49;}
+    	a.social{color: grey;}
+
+        .subtitle {color: #fafafa;}
+
+        #episode { padding-top: 20px; }
+        #episode p, ul{text-align: left;}
+        #episode a:hover {color: white; text-decoration: underline; }
+        li{padding: 5px;}
+
+    	.navbar-brand:hover {text-shadow: 5px; color: ;}
+
+    	.icon{ margin-left: 10px; margin-right: 10px;}
+
+        #ep4{
+            background-color: #0D1491;
+        }
+
+        #ep3
+        {
+            background-color: #084568;
+        }
+
+        #ep2{ background-color: #192E49; }
+        #ep1{background-color: #172E46;}
+        #ep4 a, #ep3 a, #ep2 a, #ep1 a{ color: white; text-decoration: underline; }
+        #ep3 a:hover{color: #F58D02;}
+        #ep4 a:hover {color: #F5C402;}
+        #ep2 a:hover {color: #F5A102;}
+        #ep1 a:hover {color: #F59C02;}
+
+        .megablock {padding: 50px;}
+
+
