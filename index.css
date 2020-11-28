@@ -67,7 +67,7 @@ body{font-family: 'Josefin Sans', sans-serif; background-color: black;}
         #ep2{ background-color: #192E49; }
         #ep1{background-color: #172E46;}
         #ep5 a, #ep4 a, #ep3 a, #ep2 a, #ep1 a{ color: white; text-decoration: underline; }
-        #ep3 a:hover {color: #F59C02;}
+        #ep5 a:hover {color: #F59C02;}
         #ep3 a:hover{color: #F58D02;}
         #ep4 a:hover {color: #F5C402;}
         #ep2 a:hover {color: #F5A102;}
